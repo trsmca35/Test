@@ -12,7 +12,7 @@ namespace EventsDemo
     {
         static void Main(string[] args)
         {
-            
+            string s= "";
         }
     }
 }
